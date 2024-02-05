@@ -1,5 +1,5 @@
 serviceAccount:
   annotations:
-    cloud.google.com/workload-identity-provider: "projects/1005942760238/locations/global/workloadIdentityPools/ext-secrets19/providers/ext-secrets19"
-    cloud.google.com/service-account-email: "external-secrets@brewing-system-4.iam.gserviceaccount.com"
+    cloud.google.com/workload-identity-provider: projects/1005942760238/locations/global/workloadIdentityPools/ext-secrets22/providers/ext-secrets22
+    cloud.google.com/service-account-email: external-secrets@brewing-system-4.iam.gserviceaccount.com
     cloud.google.com/gcloud-run-as-user: "65534"
